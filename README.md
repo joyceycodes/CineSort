@@ -1,2 +1,2 @@
-# Meli
+# CineSort
 Beli for movies
